@@ -4,15 +4,17 @@
 
 # ¿Qué es esto?
 
-Un repositorio github para alojar mi mi cv en formato markdown.
-
-# ¿Cómo funciona?
+Un repositorio github para alojar mi mi cv.
 
 Existen dos versiones de mi currículum vitae:
 - [Una versión resumida](./es_ES/cv-summary.md)
 - [Una versión detallada](./es_ES/cv-full.md)
 
 > Haz clic en uno de los enlaces para acceder a la versión deseada
+
+# ¿Cómo funciona?
+
+Tengo el currículum redactado en formato markdown y aprovecho las ventajas de [Github Pages](https://pages.github.com) para alojarlo. Es todo muy sencillo ya que es GitHub quien se encarga de renderizar los ficheros markdown en HTML. Incluso es posible elegir entre varios templates! Lo único que hay que configurar es la rama en la que está el contenido que será servido por [Github Pages](https://pages.github.com) (pudiendo alojar el contenido directamente en la rama `master`, o bien en el directorio `/docs` de la rama `master` o bien en la rama `gh-pages`).
 
 # ¿Por qué?
 
