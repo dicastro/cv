@@ -1,10 +1,14 @@
-# CV - Diego Castro Viadero
+# CV (_versión detallada_)
 
 ![Este soy yo!](../img/yo.jpg)
 
 ## Léeme
 
+Esta es la versión detallada de mi currículum vitae. No es un cv al uso, ya que he incluído comentarios, y no me he cortado por la longitud del mismo.
 
+> Recomiendo leer [esta página](../README.md), donde explico el por qué de esto
+
+> Si tienes alguna pregunta... [FAQ](../README.md#FAQ)
 
 #### Contacto
 
