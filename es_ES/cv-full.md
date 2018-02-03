@@ -1,6 +1,6 @@
 # CV - Diego Castro Viadero
 
-![Este soy yo!](./yo.jpg)
+![Este soy yo!](../img/yo.jpg)
 
 ## Léeme
 

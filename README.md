@@ -1,12 +1,24 @@
-# Qué es esto?
+> Working on english version
 
-Un repositorio de código para alojar mi mi cv en formato markdown.
+> Version française en cours de développement
 
-# Por qué?
+# ¿Qué es esto?
 
-Y por qué no? Ya estaba cansado de tener en formato word mi cv, con todas la implicaciones que esto conlleva:
+Un repositorio github para alojar mi mi cv en formato markdown.
+
+# ¿Cómo funciona?
+
+Existen dos versiones de mi currículum vitae:
+- [Una versión resumida](./es_ES/cv-summary.md)
+- [Una versión detallada](./es_ES/cv-full.md)
+
+> Haz clic en uno de los enlaces para acceder a la versión deseada
+
+# ¿Por qué?
+
+¿Y por qué no? Ya estaba cansado de tener en formato word mi cv, con todas la implicaciones que esto conlleva:
 - Tener una versión de pago del Office (atrás quedaron los tiempos del pirateo!)
-- Tener un SO que soporte Office (no estoy atado a un SO concreto, pero hay temporadas en las que he usado linux, y por mucho que me duela el OpenOffice no es lo mismo)
+- Tener un SO que soporte Office (no estoy atado a un SO concreto, y ha habido temporadas en las que he usado linux, y por mucho que me duela el OpenOffice no es lo mismo)
 - Tener N documentos con diferentes versiones del CV
 - Tener que pelearme con el Word para que quede bonito
 
@@ -16,24 +28,28 @@ Así que después de haberme acostumbrado en mi trabajo a documentar todo en for
 
 # FAQ
 
-## Soy un recruiter y me interesas
+## Soy un recruiter y creo que podrías encajar en un proceso de selección
 
-Abre un issue c
+1. Abre un issue con la etiqueta `contact`
+1. Añade detalles del perfil que buscáis
+1. Añade detalles de las funciones que se desempeñarían
+1. Incluye información para contactar contigo
 
-# TODOs
+## Soy un programador y he coincidido contigo en algún momento y me gustaría validar/comentar alguna experiencia compartida
 
-## 1
-[ES] Ya que tengo puesto en el cv que hablo inglés y francés estaría bien tener una versión en ambos idiomas de esto. Qué pereza!
+1. Clona el repo
+1. Añade un comentario debajo de la experiencia relacionada (deja un nombre, por favor)
+1. Crea un PR
 
-[EN] Translate this into english
+```
+Ej:
 
-[FR] Traduire tout ça
+2001/2003  - Empresa chachipiruli - Proyecto superguay
++++
++++ > [Juan] Comentario
+```
 
-## 2
-Me gustaría tener una web con mi cv y que fuese interactiva. Que yo no tenga que ir detrás de las personas de recruitment. Darle la vuelta a la tortilla y que me sirva a mi de filtro de recruiters. ¿Qué es eso de _"tengo una oferta que te puede interesar, pero no te puedo contar para qué cliente es, ni te puedo describir el puesto (entre otras cosas porque no tengo ni idea del mundo de la programación, y no he entendido ninguna de las palabrejas que me han enviado para publicar la oferta)"_?
+## No soy programador (no tengo perfil técnico) y he coincidido contigo en algún momento y me gustaría validar/comentar alguna experiencia compartida
 
-Si alguien está realmente interesado en incluirme en su proceso de selección, que responda una serie de preguntas que yo decida, dando información sobre lo que buscan, y si llega al final del proceso y a mi me interesa, y solo en ese caso, le enviaría mi cv. Es como una proceso de selección para el seleccionador de candidatos del proceso de selección.
-
-Creo que se está denigrando la profesión de los recruiters. Desde hace un tiempo he observado que llaman a puerta fría. Me recuerdan a los teleoperadores de las telecos.
-
-¿Demasiado atrevido? ¿Demasiado prepotente? De momento es sólo una idea
+1. Abre un issue con la etiqueta `coworker`
+1. Añade el comentario que desees
