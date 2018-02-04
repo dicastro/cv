@@ -23,7 +23,7 @@ Desarrollo de APIs REST para la gestión de las lecturas de los contadores eléc
 
 | Duración | Rol                  | Cliente | Lugar  |
 | :------: | :------------------: | :-----: | :----: |
-| 1 año    | Analista programador | Edelia  | Nantes |
+| En curso | Analista programador | Edelia  | Nantes |
 
 #### _Funciones_
 
