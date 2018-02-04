@@ -2,6 +2,8 @@
 
 ![Este soy yo!](../img/yo.jpg)
 
+> Versión detallada del cv [aquí](./cv-full.md#cv-versión-detallada)
+
 > Si tienes alguna pregunta... [FAQ](../README.md#faq)
 
 ## Contacto
