@@ -6,7 +6,7 @@
 
 ## Contacto
 
-Prefiero no dejar mis datos de contato a la vista de bots recopiladores de mails y teléfonos. [Cómo contactar conmigo](../README.md##soy-un-recruiter-y-creo-que-podrías-encajar-en-un-proceso-de-selección)
+Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails y teléfonos. [Cómo contactar conmigo](../README.md#soy-un-recruiter-y-creo-que-podrías-encajar-en-un-proceso-de-selección)
 
 ## Idiomas
 
@@ -149,7 +149,7 @@ Desarrollo de una aplicación web para la gestión de licencias, gestión de las
 
 Como apasionado de la programación, me gusta programar en mi tiempo libre. A continuación listo una serie de tecnologías con las que me he entretenido en algún momento:
 
-`Vagrant`, `MyBatis`, `NodeJS`, `Express`, `Mongoose`, `MongoDB`, `Cordova`, `Ionic2`, `Powershell`, `PWA`, `IoT`, `ESP8266`, `Raspberry Pi`, `Google Assistant`, `Telegram Bots`, `Dialogflow`
+`PWA`, `Ionic2`, `IoT`, `ESP8266`, `Raspberry Pi`, `Google Assistant`, `Telegram Bots`, `Dialogflow`, `Vagrant`, `MyBatis`, `NodeJS`, `Express`, `Mongoose`, `MongoDB`, `Cordova`, `Powershell`
 
 ## Formación académica
 
