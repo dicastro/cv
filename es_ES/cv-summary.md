@@ -75,7 +75,7 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 
 | Cliente | Lugar  |
 | :-----: | :----: |
-| TDF     | Madrid |
+| Cellnex | Madrid |
 
 #### _Tecnologías_
 

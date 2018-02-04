@@ -87,7 +87,7 @@ Desarrollo de aplicación web que actua como frontend de otra existente. La inte
 
 | Cliente | Lugar  |
 | :-----: | :----: |
-| TDF     | Madrid |
+| Cellnex | Madrid |
 
 #### _Tecnologías_
 
