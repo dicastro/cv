@@ -21,7 +21,7 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 
 | Duración | Rol                  | Cliente | Lugar  |
 | :------: | :------------------: | :-----: | :----: |
-| 1 año    | Analista programador | Edelia  | Nantes |
+| En curso | Analista programador | Edelia  | Nantes |
 
 #### _Tecnologías_
 
