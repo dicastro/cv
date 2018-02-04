@@ -2,7 +2,7 @@
 
 ![Este soy yo!](../img/yo.jpg)
 
-> Versión detallada del cv [aquí](./cv-full.md#cv-versión-resumida)
+> Versión detallada del cv [aquí](./cv-summary.md#cv-versión-resumida)
 
 > Si tienes alguna pregunta... [FAQ](../README.md#faq)
 
