@@ -17,7 +17,103 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 | Francés | Alto  | Alto    | Alto    |
 | Inglés  | Alto  | Medio   | Medio   |
 
-## 09/2013 - Hoy | _Sopra Steria Group_
+## 12/2016 - Hoy     | _Locken_
+
+> _Locken_ es una empresa pequeña con un departamento de IT pequeño. Los proyectos suelen ser de poca duración y se solapan en el tiempo, por lo que no voy a indicar duraciones. Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo en cada proyecto.
+
+### **Desarrollo de chatbot**
+
+Desarrollo de un chatbot de skype para ofrecer un nuevo canal de entrada a los usuarios.
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`Microsoft Bot Framework`, `Node.js`, `Restify`, `Dialogflow`, `Azure Bot Service`, `Twilio`, `SMS`, `API REST`, `Spring Boot`, `Spring MVC`, `Spring State Machine`, `Redis`, `Docker`, `Docker Compose`, `Git`
+
+### **Desarrollo de API REST para aplicación móvil de control de acceso**
+
+Desarrollo de un API REST para la parte backend de una aplicación móvil de control de acceso.
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Orange  | Madrid |
+
+#### _Tecnologías_
+
+`Grails 3`, `Grails Spring Security Rest`, `JWT`, `API REST`, `Gorm`, `MySQL`, `Git`
+
+### **Implantación de plataforma BI**
+
+Puesta en marcha, evolución y mantenimiento de plataforma de BI para la automatización de la generación de informes.
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`Pentaho`, `PDI`, `ETL`, `Pentaho BA`, `PostgreSQL`, `Git`
+
+### **Integración con aplicación web**
+
+Desarrollo de un API REST que actúa como fachada de otra aplicación web de terceros. Se integra con la otra aplicación mediante servicios XML/RPC. El objetivo es el de simplificar el uso de los servicios de la aplicación de terceros, desarrollando otros de más alto nivel.
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| ARM     | Madrid |
+
+#### _Tecnologías_
+
+`Spring Boot`, `Apache Camel`, `XML/RPC`, `API REST`, `Git`
+
+### **Desarrollo de aplicación web para gestión de acceso**
+
+Desarrollo de aplicación web para la visualización en tiempo real de accesos a instalaciones de telecomunicaciones. Dicha aplicación web expone un API REST y actúa como backend de una aplicación móvil de gestión de acceso.
+
+| Cliente  | Lugar  |
+| :------: | :----: |
+| Vodarone | Madrid |
+
+#### _Tecnologías_
+
+`Spring Boot`, `Java 8`, `Spring MVC`, `JQuery`, `Websockets`, `Zuul`, `Zoekeeper`, `Eureka`, `Docker`, `Docker Compose`, `Git`
+
+### **Desarrollo de aplicación web frontend**
+
+Desarrollo de aplicación web que actua como frontend de otra existente. La integración entre frontend y backend se realiza mediante llamadas HTTP.
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| TDF     | Madrid |
+
+#### _Tecnologías_
+
+`Spring Boot`, `Spring Security`, `Java 8`, `JQuery`, `HTML`, `Bootstrap`, `Git`
+
+### **Mantenimiento de aplicación web de gestión de acceso**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| HSBC    | Madrid |
+
+#### _Tecnologías_
+
+`Grails 2`, `MySQL`, `Liquibase`, `Git`, `Tomcat`, `Apache`, `JQuery`, `Git`
+
+### Otras contribuciones
+
+> He _"plantado la semilla"_ de `Docker`. Fui el primero en incorporarlo a un proyecto, y convencí a mis compañeros para que lo utilizaran. Docker se ha convertido en una herramienta utilizada en todos los nuevos desarrollos, facilitando mucho la preparación de los entornos y los despliegues. Esto se ha conseguido también gracias a la labor de alguno de mis compañeros que fue un paso más allá y descubrió las bondades de `Rancher`.
+
+> He _"plantado la semilla"_ de la _documentación técnica en modo texto_. Para ello utilizamo el combo `markdown` + `plantuml`, junto con un par de plugins de `Visual Studio Code`. Esta combinación agiliza mucho la documentación, sobre todo la generación de diagramas. También nos permite hacer un seguimiento mucho mejor de los cambios sobre la documentación al tenerla incorporada en el sistema de control de versiones, ya que se trata únicamente de ficheros de texto plano.
+
+> He _"plantado la semilla"_ de los `chatbots`. Tras varias _POCs_, hemos comenzado con el primer _chatbot_ oficial. Nos va a permitir ofrecer un canal, al cual los usuarios están muy habituados hoy en día y así liberar al departamento de _Service Desk_ de las llamadas más repetitivas.
+
+> He _"plantado la semilla"_ de las `PWA`. Aunque todavía creemos que están un poco "verdes" para hacer un primer desarrollo, he realizado un primer POC para conocer las posibilidades que ofrecen.
+
+## 09/2013 - 11/2016 | _Sopra Steria Group_
 
 ### **Portal Equilibre**
 
@@ -25,7 +121,7 @@ Desarrollo de APIs REST para la gestión de las lecturas de los contadores eléc
 
 | Duración | Rol                  | Cliente | Lugar  |
 | :------: | :------------------: | :-----: | :----: |
-| En curso | Analista programador | Edelia  | Nantes |
+| 1 año    | Analista programador | Edelia  | Nantes |
 
 #### _Funciones_
 

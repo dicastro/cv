@@ -17,13 +17,87 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 | Francés | Alto  | Alto    | Alto    |
 | Inglés  | Alto  | Medio   | Medio   |
 
-## 09/2013 - Hoy | _Sopra Steria Group_
+## 12/2016 - Hoy     | _Locken_
+
+> _Locken_ es una empresa pequeña con un departamento de IT pequeño. Los proyectos suelen ser de poca duración y se solapan en el tiempo, por lo que no voy a indicar duraciones. Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo en cada proyecto.
+
+### **Desarrollo de chatbot**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`Microsoft Bot Framework`, `Node.js`, `Restify`, `Dialogflow`, `Azure Bot Service`, `Twilio`, `SMS`, `API REST`, `Spring Boot`, `Spring MVC`, `Spring State Machine`, `Redis`, `Docker`, `Docker Compose`, `Git`
+
+### **Desarrollo de API REST para aplicación móvil de control de acceso**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Orange  | Madrid |
+
+#### _Tecnologías_
+
+`Grails 3`, `Grails Spring Security Rest`, `JWT`, `API REST`, `Gorm`, `MySQL`, `Git`
+
+### **Implantación de plataforma BI**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`Pentaho`, `PDI`, `ETL`, `Pentaho BA`, `PostgreSQL`, `Git`
+
+### **Integración con aplicación web**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| ARM     | Madrid |
+
+#### _Tecnologías_
+
+`Spring Boot`, `Apache Camel`, `XML/RPC`, `API REST`, `Git`
+
+### **Desarrollo de aplicación web para gestión de acceso**
+
+| Cliente  | Lugar  |
+| :------: | :----: |
+| Vodarone | Madrid |
+
+#### _Tecnologías_
+
+`Spring Boot`, `Java 8`, `Spring MVC`, `JQuery`, `Websockets`, `Zuul`, `Zoekeeper`, `Eureka`, `Docker`, `Docker Compose`, `Git`
+
+### **Desarrollo de aplicación web frontend**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| TDF     | Madrid |
+
+#### _Tecnologías_
+
+`Spring Boot`, `Spring Security`, `Java 8`, `JQuery`, `HTML`, `Bootstrap`, `Git`
+
+### **Mantenimiento de aplicación web de gestión de acceso**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| HSBC    | Madrid |
+
+#### _Tecnologías_
+
+`Grails 2`, `MySQL`, `Liquibase`, `Git`, `Tomcat`, `Apache`, `JQuery`, `Git`
+
+## 09/2013 - 11/2016 | _Sopra Steria Group_
 
 ### **Portal Equilibre**
 
 | Duración | Rol                  | Cliente | Lugar  |
 | :------: | :------------------: | :-----: | :----: |
-| En curso | Analista programador | Edelia  | Nantes |
+| 1 año    | Analista programador | Edelia  | Nantes |
 
 #### _Tecnologías_
 
