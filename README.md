@@ -7,8 +7,8 @@
 Un repositorio github para alojar mi mi cv.
 
 Existen dos versiones de mi currículum vitae:
-- [Una versión resumida](./es_ES/cv-summary.md)
-- [Una versión detallada](./es_ES/cv-full.md)
+- [Una versión resumida](./es_ES/cv-summary.md#cv-versión-resumida)
+- [Una versión detallada](./es_ES/cv-full.md#cv-versión-detallada)
 
 > Haz clic en uno de los enlaces para acceder a la versión deseada
 
