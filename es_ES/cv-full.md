@@ -75,7 +75,7 @@ Desarrollo de aplicación web para la visualización en tiempo real de accesos a
 
 | Cliente  | Lugar  |
 | :------: | :----: |
-| Vodarone | Madrid |
+| Vodafone | Madrid |
 
 #### _Tecnologías_
 
