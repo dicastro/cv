@@ -65,7 +65,7 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 
 | Cliente  | Lugar  |
 | :------: | :----: |
-| Vodarone | Madrid |
+| Vodafone | Madrid |
 
 #### _Tecnologías_
 
