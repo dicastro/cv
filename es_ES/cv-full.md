@@ -2,7 +2,7 @@
 
 ![Este soy yo!](../img/yo.jpg)
 
-> Versión detallada del cv [aquí](./cv-summary.md#cv-versión-resumida)
+> Versión resumida del cv [aquí](./cv-summary.md#cv-versión-resumida)
 
 > Si tienes alguna pregunta... [FAQ](../README.md#faq)
 
@@ -19,7 +19,15 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 
 ## 12/2016 - Hoy     | _Locken_
 
-> _Locken_ es una empresa pequeña con un departamento de IT pequeño. Los proyectos suelen ser de poca duración y se solapan en el tiempo, por lo que no voy a indicar duraciones. Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo en cada proyecto.
+> _Locken_ es una empresa pequeña con un departamento de IT pequeño. Los proyectos suelen ser de poca duración (no superan los 6 meses) y se solapan en el tiempo, por lo que no voy a indicar fechas.
+
+Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo en cada uno de los proyectos. Las principales funciones que desempeño son:
+- Desarrollo de especificaciones técnicas
+- Revisión de especificaciones funcionales
+- Diseño de arquitecturas
+- I+D
+- Programación
+- Revisión de código
 
 ### **Desarrollo de chatbot**
 
@@ -31,7 +39,7 @@ Desarrollo de un chatbot de skype para ofrecer un nuevo canal de entrada a los u
 
 #### _Tecnologías_
 
-`Microsoft Bot Framework`, `Node.js`, `Restify`, `Dialogflow`, `Azure Bot Service`, `Twilio`, `SMS`, `API REST`, `Spring Boot`, `Spring MVC`, `Spring State Machine`, `Redis`, `Docker`, `Docker Compose`, `Git`
+`Microsoft Bot Framework`, `Node.js`, `Restify`, `IA`, `NLP`, `Dialogflow`, `Azure Bot Service`, `Twilio`, `SMS`, `API REST`, `Spring Boot`, `Spring MVC`, `Spring State Machine`, `Redis`, `Docker`, `Docker Compose`, `Git`
 
 ### **Desarrollo de API REST para aplicación móvil de control de acceso**
 
@@ -85,9 +93,9 @@ Desarrollo de aplicación web para la visualización en tiempo real de accesos a
 
 Desarrollo de aplicación web que actua como frontend de otra existente. La integración entre frontend y backend se realiza mediante llamadas HTTP.
 
-| Cliente | Lugar  |
-| :-----: | :----: |
-| Cellnex | Madrid |
+| Cliente    | Lugar  |
+| :--------: | :----: |
+| Cellnex FR | Madrid |
 
 #### _Tecnologías_
 
@@ -247,7 +255,7 @@ Desarrollo de una aplicación web para la gestión de licencias, gestión de las
 
 Como apasionado de la programación, me gusta programar en mi tiempo libre. A continuación listo una serie de tecnologías con las que me he entretenido en algún momento:
 
-`PWA`, `Ionic2`, `IoT`, `ESP8266`, `Raspberry Pi`, `Google Assistant`, `Telegram Bots`, `Dialogflow`, `Vagrant`, `MyBatis`, `NodeJS`, `Express`, `Mongoose`, `MongoDB`, `Cordova`, `Powershell`
+`PWA`, `Ionic2`, `IoT`, `ESP8266`, `Raspberry Pi`, `Google Assistant`, `Telegram Bots`, `Dialogflow`, `Vagrant`, `MyBatis`, `NodeJS`, `Express`, `Mongoose`, `MongoDB`, `Cordova`, `Powershell`, `3D Printing`
 
 ## Formación académica
 
