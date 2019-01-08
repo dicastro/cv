@@ -19,7 +19,7 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 
 ## 12/2016 - Hoy     | _Locken_
 
-> _Locken_ es una empresa pequeña con un departamento de IT pequeño. Los proyectos suelen ser de poca duración (no superan los 6 meses) y se solapan en el tiempo, por lo que no voy a indicar fechas.
+> _Locken_ es una empresa pequeña con un departamento de IT pequeño. Los proyectos suelen ser de poca duración (no superan los 6 meses) y se solapan en el tiempo, por lo que por una cuestión de simplicidad no voy a indicar fechas, ya que se solapan en el tiempo.
 
 Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo en cada uno de los proyectos. Las principales funciones que desempeño son:
 - Desarrollo de especificaciones técnicas
@@ -28,6 +28,26 @@ Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo e
 - I+D
 - Programación
 - Revisión de código
+
+### **Diseño y desarrollo de la arquitectura del backen de aplicación móvil**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`Java 8`, `Spring Boot`, `Spring Cloud`, `Consul`, `Docker`, `Rancher`
+
+### **Implantación de un Identity Server**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`WSO2 Identity Server`, `Docker`, `Rancher`
 
 ### **Desarrollo de chatbot**
 
@@ -181,9 +201,10 @@ Como apasionado de la programación, me gusta programar en mi tiempo libre. A co
 
 ## Formación académica
 
-| Periodo     | Centro                | Título                                       |
-| ----------: | :-------------------: | -------------------------------------------- |
-| 2014        | MongoDB University    | M101JS: MongoDB for Node.js Developers       |
-| 2011        | -                     | Java Standard Edition 6 Programmer Certified |
-| 2005 - 2007 | Universidad de Deusto | Ingeniero superior en informática de gestión |
-| 2002 - 2005 | Universidad de Deusto | Ingeniero técnico en informática de gestión  |
+| Periodo     | Centro                | Título                                            |
+| ----------: | :-------------------: | ------------------------------------------------- |
+| 2018 - 2019 | U-TAD                 | ** Cursando **: Máster en Big Data & Data Science |
+| 2014        | MongoDB University    | M101JS: MongoDB for Node.js Developers            |
+| 2011        | -                     | Java Standard Edition 6 Programmer Certified      |
+| 2005 - 2007 | Universidad de Deusto | Ingeniero superior en informática de gestión      |
+| 2002 - 2005 | Universidad de Deusto | Ingeniero técnico en informática de gestión       |

@@ -19,7 +19,7 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 
 ## 12/2016 - Hoy     | _Locken_
 
-> _Locken_ es una empresa pequeña con un departamento de IT pequeño. Los proyectos suelen ser de poca duración (no superan los 6 meses) y se solapan en el tiempo, por lo que no voy a indicar fechas.
+> _Locken_ es una empresa pequeña con un departamento de IT pequeño. Los proyectos suelen ser de poca duración (no superan los 6 meses) y se solapan en el tiempo, por lo que por una cuestión de simplicidad no voy a indicar fechas, ya que se solapan en el tiempo.
 
 Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo en cada uno de los proyectos. Las principales funciones que desempeño son:
 - Desarrollo de especificaciones técnicas
@@ -28,6 +28,30 @@ Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo e
 - I+D
 - Programación
 - Revisión de código
+
+### **Diseño y desarrollo de la arquitectura del backen de aplicación móvil**
+
+Diseño y desarrollo de una arquitectura basada en microservicios que sirve como backend para una aplicación móvil, así como de base para los futuros desarrollos.
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`Java 8`, `Spring Boot`, `Spring Cloud`, `Consul`, `Docker`, `Rancher`
+
+### **Implantación de un Identity Server**
+
+Configuración, personalización y despliegue de un _Identity Server_ que es el core de la autenticación de toda la nueva infraestructura basada en microservicios que se está desarrollando en la empresa.
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`WSO2 Identity Server`, `Docker`, `Rancher`
 
 ### **Desarrollo de chatbot**
 
@@ -113,13 +137,13 @@ Desarrollo de aplicación web que actua como frontend de otra existente. La inte
 
 ### Otras contribuciones
 
-> He _"plantado la semilla"_ de `Docker`. Fui el primero en incorporarlo a un proyecto, y convencí a mis compañeros para que lo utilizaran. Docker se ha convertido en una herramienta utilizada en todos los nuevos desarrollos, facilitando mucho la preparación de los entornos y los despliegues. Esto se ha conseguido también gracias a la labor de alguno de mis compañeros que fue un paso más allá y descubrió las bondades de `Rancher`.
+> Precursor de `Docker`. Fui el primero en incorporarlo a un proyecto, y convencí a mis compañeros para que lo utilizaran. Docker se ha convertido en una herramienta utilizada en todos los nuevos desarrollos, facilitando mucho la preparación de los entornos y los despliegues. Esto se ha conseguido también gracias a la labor de alguno de mis compañeros que fue un paso más allá y descubrió las bondades de `Rancher`.
 
-> He _"plantado la semilla"_ de la _documentación técnica en modo texto_. Para ello utilizamo el combo `markdown` + `plantuml`, junto con un par de plugins de `Visual Studio Code`. Esta combinación agiliza mucho la documentación, sobre todo la generación de diagramas. También nos permite hacer un seguimiento mucho mejor de los cambios sobre la documentación al tenerla incorporada en el sistema de control de versiones, ya que se trata únicamente de ficheros de texto plano.
+> Precursor de la _documentación técnica en modo texto_. Para ello utilizamo el combo `markdown` + `plantuml`, junto con un par de plugins de `Visual Studio Code`. Esta combinación agiliza mucho la documentación, sobre todo la generación de diagramas. También nos permite hacer un seguimiento mucho mejor de los cambios sobre la documentación al tenerla incorporada en el sistema de control de versiones, ya que se trata únicamente de ficheros de texto plano.
 
-> He _"plantado la semilla"_ de los `chatbots`. Tras varias _POCs_, hemos comenzado con el primer _chatbot_ oficial. Nos va a permitir ofrecer un canal, al cual los usuarios están muy habituados hoy en día y así liberar al departamento de _Service Desk_ de las llamadas más repetitivas.
+> Precursor de los `chatbots`. Tras varias _POCs_, hemos comenzado con el primer _chatbot_ oficial. Nos va a permitir ofrecer un canal, al cual los usuarios están muy habituados hoy en día y así liberar al departamento de _Service Desk_ de las llamadas más repetitivas.
 
-> He _"plantado la semilla"_ de las `PWA`. Aunque todavía creemos que están un poco "verdes" para hacer un primer desarrollo, he realizado un primer POC para conocer las posibilidades que ofrecen.
+> Precursor de las `PWA`. Aunque todavía creemos que están un poco "verdes" para hacer un primer desarrollo, he realizado un primer POC para conocer las posibilidades que ofrecen.
 
 ## 09/2013 - 11/2016 | _Sopra Steria Group_
 
@@ -259,9 +283,10 @@ Como apasionado de la programación, me gusta programar en mi tiempo libre. A co
 
 ## Formación académica
 
-| Periodo     | Centro                | Título                                       |
-| ----------: | :-------------------: | -------------------------------------------- |
-| 2014        | MongoDB University    | M101JS: MongoDB for Node.js Developers       |
-| 2011        | -                     | Java Standard Edition 6 Programmer Certified |
-| 2005 - 2007 | Universidad de Deusto | Ingeniero superior en informática de gestión |
-| 2002 - 2005 | Universidad de Deusto | Ingeniero técnico en informática de gestión  |
+| Periodo     | Centro                | Título                                            |
+| ----------: | :-------------------: | ------------------------------------------------- |
+| 2018 - 2019 | U-TAD                 | ** Cursando **: Máster en Big Data & Data Science |
+| 2014        | MongoDB University    | M101JS: MongoDB for Node.js Developers            |
+| 2011        | -                     | Java Standard Edition 6 Programmer Certified      |
+| 2005 - 2007 | Universidad de Deusto | Ingeniero superior en informática de gestión      |
+| 2002 - 2005 | Universidad de Deusto | Ingeniero técnico en informática de gestión       |
