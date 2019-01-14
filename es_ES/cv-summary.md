@@ -28,8 +28,9 @@ Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo e
 - I+D
 - Programación
 - Revisión de código
+- Referente técnico
 
-### **Diseño y desarrollo de la arquitectura del backen de aplicación móvil**
+### **Diseño y desarrollo de la arquitectura del backend de aplicación móvil**
 
 | Cliente | Lugar  |
 | :-----: | :----: |
@@ -107,7 +108,7 @@ Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo e
 
 #### _Tecnologías_
 
-`Spring Boot`, `Spring Security`, `Java 8`, `JQuery`, `HTML`, `Bootstrap`, `Git`
+`Grails 3`, `Grails Spring Security`, `Groovy`, `JQuery`, `HTML`, `Bootstrap`, `Git`
 
 ### **Mantenimiento de aplicación web de gestión de acceso**
 

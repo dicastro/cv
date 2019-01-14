@@ -28,8 +28,9 @@ Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo e
 - I+D
 - Programación
 - Revisión de código
+- Referente técnico
 
-### **Diseño y desarrollo de la arquitectura del backen de aplicación móvil**
+### **Diseño y desarrollo de la arquitectura del backend de aplicación móvil**
 
 Diseño y desarrollo de una arquitectura basada en microservicios que sirve como backend para una aplicación móvil, así como de base para los futuros desarrollos.
 
@@ -115,7 +116,7 @@ Desarrollo de aplicación web para la visualización en tiempo real de accesos a
 
 ### **Desarrollo de aplicación web frontend**
 
-Desarrollo de aplicación web que actua como frontend de otra existente. La integración entre frontend y backend se realiza mediante llamadas HTTP.
+Desarrollo de aplicación web que actúa como frontend de otra existente. La integración entre frontend y backend se realiza mediante llamadas HTTP.
 
 | Cliente    | Lugar  |
 | :--------: | :----: |
@@ -123,7 +124,7 @@ Desarrollo de aplicación web que actua como frontend de otra existente. La inte
 
 #### _Tecnologías_
 
-`Spring Boot`, `Spring Security`, `Java 8`, `JQuery`, `HTML`, `Bootstrap`, `Git`
+`Grails 3`, `Grails Spring Security`, `Groovy`, `JQuery`, `HTML`, `Bootstrap`, `Git`
 
 ### **Mantenimiento de aplicación web de gestión de acceso**
 
@@ -149,7 +150,7 @@ Desarrollo de aplicación web que actua como frontend de otra existente. La inte
 
 ### **Portal Equilibre**
 
-Desarrollo de APIs REST para la gestión de las lecturas de los contadores eléctricos inteligentes de los hogares franceses.
+Desarrollo de un backend basado en microservicios para recoger y procesar las lecturas de contadores eléctricos inteligentes de los hogares de Francia.
 
 | Duración | Rol                  | Cliente | Lugar  |
 | :------: | :------------------: | :-----: | :----: |
@@ -167,7 +168,7 @@ Desarrollo de APIs REST para la gestión de las lecturas de los contadores eléc
 
 ### **Lanzamiento proyecto Programme FIBRE**
 
-Lanzamiento de un desarrollo de una aplicación web para el banco de francia.
+Lanzamiento de un desarrollo de una aplicación web para el Banco de Francia.
 
 | Duración | Rol               | Cliente          | Lugar |
 | :------: | :---------------: | :--------------: | :---: |
@@ -204,7 +205,7 @@ Desarrollo de aplicación web para gestión de instalaciones cogeneradoras.
 
 ### **Aplicación web para gestión de instalaciones fotovoltaicas**
 
-Mantenimiento de una aplicación web para la gestión de contratos de instalaciones fotovoltaigas.
+Mantenimiento de una aplicación web para la gestión de contratos de instalaciones fotovoltaicas.
 
 | Duración | Rol               | Cliente | Lugar  |
 | :------: | :---------------: | :-----: | :----: |
@@ -237,7 +238,7 @@ Desarrollo aplicación web para la búsqueda de carreras populares, gestión del
 
 #### _Tecnologías_
 
-`Java 6`, `Spring MVC`, `REST`, `Integración con Paypal`, `Spring Social`, `Spring Security`, `Spring Batch`, `Apache Camel`, `JSP`, `HTML`, `JQuery`, `AngularJS`, `Elasticsearch`, `Spring Data`, `JPA`, `Hibernate`, `MySQL`, `JUnit`, `Tomcat`, `GIT`
+`Java 6`, `Spring MVC`, `REST`, `Integración con Paypal`, `Spring Social`, `Spring Security`, `Spring Batch`, `Apache Camel`, `JSP`, `HTML`, `JQuery`, `AngularJS`, `Elasticsearch`, `Spring Data`, `JPA`, `Hibernate`, `MySQL`, `JUnit`, `Tomcat`, `Git`
 
 ## 06/2008 - 05/2012 | _Bilbomática_
 
