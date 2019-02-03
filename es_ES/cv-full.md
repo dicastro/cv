@@ -19,9 +19,8 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 
 ## 12/2016 - Hoy     | _Locken_
 
-> _Locken_ es una empresa pequeña con un departamento de IT pequeño. Los proyectos suelen ser de poca duración (no superan los 6 meses) y se solapan en el tiempo, por lo que por una cuestión de simplicidad no voy a indicar fechas, ya que se solapan en el tiempo.
+_Locken_ es una empresa de producto con un departamento de IT pequeño y en constante evolución. Al tratarse de un departamento de IT pequeño, mi rol en la empresa no es fijo, va cambiando a lo largo del tiempo según las necesidades. Las principales funciones que desempeño son:
 
-Mi rol en la empresa es _programador fullstack_, por lo que no voy a indicarlo en cada uno de los proyectos. Las principales funciones que desempeño son:
 - Desarrollo de especificaciones técnicas
 - Revisión de especificaciones funcionales
 - Diseño de arquitecturas
