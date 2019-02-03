@@ -137,9 +137,9 @@ Desarrollo de aplicación web que actúa como frontend de otra existente. La int
 
 ### Otras contribuciones
 
-> Precursor de `Docker`. Fui el primero en incorporarlo a un proyecto, y convencí a mis compañeros para que lo utilizaran. Docker se ha convertido en una herramienta utilizada en todos los nuevos desarrollos, facilitando mucho la preparación de los entornos y los despliegues. Esto se ha conseguido también gracias a la labor de alguno de mis compañeros que fue un paso más allá y descubrió las bondades de `Rancher`.
+> Precursor de `Docker`. Lo incorporé en mis primeros proyectos, e hice ver sus bondades a mis compañeros. Finalmente docker se ha convertido en una herramienta utilizada en todos los nuevos desarrollos, facilitando mucho la preparación de los entornos y los despliegues.
 
-> Precursor de la _documentación técnica en modo texto_. Para ello utilizamo el combo `markdown` + `plantuml`, junto con un par de plugins de `Visual Studio Code`. Esta combinación agiliza mucho la documentación, sobre todo la generación de diagramas. También nos permite hacer un seguimiento mucho mejor de los cambios sobre la documentación al tenerla incorporada en el sistema de control de versiones, ya que se trata únicamente de ficheros de texto plano.
+> Precursor de la _documentación técnica en modo texto_. Para ello utilizamos el combo `markdown` + `plantuml`, junto con un par de plugins de `Visual Studio Code`. Esta combinación agiliza mucho la documentación, sobre todo la generación de diagramas. También nos permite hacer un seguimiento mucho mejor de los cambios sobre la documentación al tenerla incorporada en el sistema de control de versiones, ya que se trata únicamente de ficheros de texto plano.
 
 > Precursor de los `chatbots`. Tras varias _POCs_, hemos comenzado con el primer _chatbot_ oficial. Nos va a permitir ofrecer un canal, al cual los usuarios están muy habituados hoy en día y así liberar al departamento de _Service Desk_ de las llamadas más repetitivas.
 
@@ -196,7 +196,7 @@ Desarrollo de aplicación web para gestión de instalaciones cogeneradoras.
 
 - Diseño y programación de la arquitectura
 - Análisis técnico de requerimientos funcionales
-- Gestión de equipo de programación de 3 personas
+- Gestión de un pequeño equipo de trabajo
 
 #### _Tecnologías_
 
@@ -251,7 +251,7 @@ Desarrolo de una aplicación web para la gestión de instalaciones industriales 
 
 #### _Funciones_
 
-- Gestión de un equipo de trabajo de 2 personas
+- Gestión de un pequeño equipo de trabajo
 - Análisis técnico de requisitos funcionales
 - Programación
 
