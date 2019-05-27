@@ -29,6 +29,16 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 - Revisión de código
 - Referente técnico
 
+### **Refactorización de infraestructura de test**
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`Java 8`, `Spring Boot`, `JUnit`, `Selenium`, `Jenkins`, `Docker`, `Rancher`
+
 ### **Diseño y desarrollo de la arquitectura del backend de aplicación móvil**
 
 | Cliente | Lugar  |
