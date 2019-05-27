@@ -29,6 +29,24 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 - Revisión de código
 - Referente técnico
 
+### **Refactorización de infraestructura de test**
+
+Refactorización de infraestructura de tests de integración transformando el código legacy en un proyecto spring boot _mavenizado_, usando frameworks de testing, con generación automática de informes, integrado con jenkins y con docker.
+
+Se ha consegido:
+- Reducir el código a menos de la mitad, reduciendo código duplicado
+- Simplificar las tareas de build del jenkins
+- Reducción de tiempos de ejecución en un 60%
+- Reducción del número de bugs del código de test
+
+| Cliente | Lugar  |
+| :-----: | :----: |
+| Locken  | Madrid |
+
+#### _Tecnologías_
+
+`Java 8`, `Spring Boot`, `JUnit`, `Selenium`, `Jenkins`, `Docker`, `Rancher`
+
 ### **Diseño y desarrollo de la arquitectura del backend de aplicación móvil**
 
 Diseño y desarrollo de una arquitectura basada en microservicios que sirve como backend para una aplicación móvil, así como de base para los futuros desarrollos.
