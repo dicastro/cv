@@ -17,7 +17,31 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 | Francés | Alto  | Alto    | Alto    |
 | Inglés  | Alto  | Medio   | Medio   |
 
-## 12/2016 - Hoy     | _Locken_
+## Formación académica
+
+| Periodo         | Centro                | Título                                            |
+| --------------: | :-------------------: | ------------------------------------------------- |
+| **2018 - 2019** | **U-TAD**             | **Máster en Big Data & Data Science**             |
+| 2014            | MongoDB University    | M101JS: MongoDB for Node.js Developers            |
+| 2011            | -                     | Java Standard Edition 6 Programmer Certified      |
+| 2005 - 2007     | Universidad de Deusto | Ingeniero superior en informática de gestión      |
+| 2002 - 2005     | Universidad de Deusto | Ingeniero técnico en informática de gestión       |
+
+> [TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes](https://github.com/dicastro/tfm-doc/blob/master/memoria.pdf)
+
+### **Plataforma NOVA**
+
+Desarrollo de una plataforma para la gestión integral de productos en el BBVA.
+
+| Duración | Rol                  | Cliente | Lugar  |
+| :------: | :------------------: | :-----: | :----: |
+| En curso | Analista programador | BBVA    | Madrid |
+
+#### _Tecnologías_
+
+`Java 8`, `PostgreSQL`, `Microservicios`, `REST`, `Spring Boot`, `Docker`, `Swarm`, `GlusterFS`, `Python`, `NodeJS`, `Git`, `Maven`, `Scrum`
+
+## 12/2016 - 06/2019 | _Locken_
 
 _Locken_ es una empresa de producto con un departamento de IT pequeño y en constante evolución. Al tratarse de un departamento de IT pequeño, mi rol en la empresa no es fijo, va cambiando a lo largo del tiempo según las necesidades. Las principales funciones que desempeño son:
 
@@ -198,13 +222,3 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 Como apasionado de la programación, me gusta programar en mi tiempo libre. A continuación listo una serie de tecnologías con las que me he entretenido en algún momento:
 
 `PWA`, `Ionic2`, `IoT`, `ESP8266`, `Raspberry Pi`, `Google Assistant`, `Telegram Bots`, `Dialogflow`, `Vagrant`, `MyBatis`, `NodeJS`, `Express`, `Mongoose`, `MongoDB`, `Cordova`, `Powershell`, `3D Printing`
-
-## Formación académica
-
-| Periodo     | Centro                | Título                                            |
-| ----------: | :-------------------: | ------------------------------------------------- |
-| 2018 - 2019 | U-TAD                 | ** Cursando **: Máster en Big Data & Data Science |
-| 2014        | MongoDB University    | M101JS: MongoDB for Node.js Developers            |
-| 2011        | -                     | Java Standard Edition 6 Programmer Certified      |
-| 2005 - 2007 | Universidad de Deusto | Ingeniero superior en informática de gestión      |
-| 2002 - 2005 | Universidad de Deusto | Ingeniero técnico en informática de gestión       |
