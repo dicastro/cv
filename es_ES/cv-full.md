@@ -10,9 +10,10 @@
     </blockquote>
 </div>
 
-## Contacto
-
-Por favor, [contacta conmigo](https://www.linkedin.com/in/diego-castro-viadero-9192a278) a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.
+<div class="non-printable">
+    <h2 id="contacto">Contacto</h2>
+    <p>Por favor, <a href="https://www.linkedin.com/in/diego-castro-viadero-9192a278">contacta conmigo</a> a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.</p>
+</div>
 
 ## Idiomas
 
