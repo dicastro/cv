@@ -1,10 +1,14 @@
 <div class="non-printable">
-
-> Esta es la versión detallada de mi CV, aquí está disponible la [versión resumida](./cv-summary.md)
-
+    <blockquote>
+        <p>Esta es la versión detallada de mi CV, aquí está disponible la <a href="/cv/es_ES/cv-summary.html">versión resumida</a></p>
+    </blockquote>
 </div>
 
-> Si tienes alguna pregunta... [FAQ](../README.md#faq)
+<div class="non-printable">
+    <blockquote>
+        <p>Si tienes alguna pregunta… <a href="/cv/#faq">FAQ</a></p>
+    </blockquote>
+</div>
 
 ## Contacto
 
