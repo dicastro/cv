@@ -104,7 +104,7 @@ Diseño y desarrollo de una arquitectura basada en microservicios que sirve como
 
 ### **Implantación de un Identity Server**
 
-Configuración, personalización y despliegue de un _Identity Server_ que es el core de la autenticación de toda la nueva infraestructura basada en microservicios que se está desarrollando en la empresa.
+Configuración, personalización y despliegue de un _Identity Server_ que es el core de la autenticación de toda la nueva infraestructura basada en microservicios de la empresa.
 
 | Cliente | Lugar  |
 | :-----: | :----: |
