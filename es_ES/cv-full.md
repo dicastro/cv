@@ -68,6 +68,8 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 - Revisión de código
 - Referente técnico
 
+<div class="page-break"></div>
+
 ### **Refactorización de infraestructura de test**
 
 Refactorización de infraestructura de tests de integración transformando el código legacy en un proyecto spring boot _mavenizado_, usando frameworks de testing, con generación automática de informes, integrado con jenkins y con docker.
