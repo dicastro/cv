@@ -2,4 +2,4 @@
 
 > Este es mi [perfil de LinkedIn](https://www.linkedin.com/in/diego-castro-viadero-9192a278)
 
-![Aquí encontrarás mi CV!](../assets/img/qr-cv-githubio.png)
+![Aquí encontrarás mi CV!](../assets/img/qr_cv_full_es_ES.png)
