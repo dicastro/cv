@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+@media print {
+    div.page-break {
+        page-break-after: always;
+    }
+}
