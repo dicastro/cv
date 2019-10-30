@@ -138,6 +138,8 @@ Desarrollo de un API REST para la parte backend de una aplicación móvil de con
 
 `Grails 3`, `Grails Spring Security Rest`, `JWT`, `API REST`, `Gorm`, `MySQL`, `Git`
 
+<div class="page-break"></div>
+
 ### **Implantación de plataforma BI**
 
 Puesta en marcha, evolución y mantenimiento de plataforma de BI para la automatización de la generación de informes.
