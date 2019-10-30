@@ -28,8 +28,9 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
-      <a href="{{ site.linkedin.public_profile_url }}" class="btn">Ver perfil
-        <svg preserveAspectRatio="xMinYMin meet" focusable="false" xmlns="http://www.w3.org/2000/svg" style="width: 34px; height: 34px; vertical-align: middle; display: inline-block; margin-left: 6px;">
+      <a href="{{ site.linkedin.public_profile_url }}" class="btn" target="_blank">
+          <p style="float: left; margin: 0 10px 0 0; line-height: 34px;">Ver perfil</p>
+        <svg preserveAspectRatio="xMinYMin meet" focusable="false" xmlns="http://www.w3.org/2000/svg" style="width: 34px; height: 34px; vertical-align: middle; display: inline-block;">
           <g class="scaling-icon" style="fill-opacity: 1;">
             <defs></defs>
             <g class="bug-34dp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
