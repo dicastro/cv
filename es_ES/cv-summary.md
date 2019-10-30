@@ -70,6 +70,8 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 
 `Java 8`, `Spring Boot`, `JUnit`, `Selenium`, `Jenkins`, `Docker`, `Rancher`
 
+<div class="page-break"></div>
+
 ### **Diseño y desarrollo de la arquitectura del backend de aplicación móvil**
 
 | Cliente | Lugar  |
