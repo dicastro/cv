@@ -34,6 +34,8 @@
 
 > **[TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes](https://github.com/dicastro/tfm-doc/blob/master/memoria.pdf)**
 
+<div class="page-break"></div>
+
 ### **Plataforma NOVA**
 
 Desarrollo de una plataforma para la gestión integral de productos en el BBVA.
