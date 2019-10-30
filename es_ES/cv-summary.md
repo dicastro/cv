@@ -102,6 +102,8 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 
 `Microsoft Bot Framework`, `Node.js`, `Restify`, `IA`, `NLP`, `Dialogflow`, `Azure Bot Service`, `Twilio`, `SMS`, `API REST`, `Spring Boot`, `Spring MVC`, `Spring State Machine`, `Redis`, `Docker`, `Docker Compose`, `Git`
 
+<div class="page-break"></div>
+
 ### **Desarrollo de API REST para aplicación móvil de control de acceso**
 
 | Cliente | Lugar  |
