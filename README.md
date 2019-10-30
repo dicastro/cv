@@ -32,10 +32,7 @@ Así que después de haberme acostumbrado en mi trabajo a documentar todo en for
 
 ## Soy un recruiter y creo que podrías encajar en un proceso de selección
 
-1. Abre un issue con la etiqueta `contact`
-1. Añade detalles del perfil que buscáis
-1. Añade detalles de las funciones que se desempeñarían
-1. Incluye información para contactar contigo
+Por favor, [contacta conmigo](www.linkedin.com/in/diego-castro-viadero-9192a278) a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.
 
 ## Soy un programador y he coincidido contigo en algún momento y me gustaría validar/comentar alguna experiencia compartida
 

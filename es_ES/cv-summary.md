@@ -1,14 +1,12 @@
-# CV (_versión resumida_)
-
 ![Este soy yo!](../img/yo.jpg)
 
-> Versión detallada del cv [aquí](./cv-full.md#cv-versión-detallada)
+> Esta es la versión resumida de mi CV, aquí está disponible la [versión detallada](./cv-full.md#cv-versión-detallada)
 
 > Si tienes alguna pregunta... [FAQ](../README.md#faq)
 
 ## Contacto
 
-Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails y teléfonos. [Cómo contactar conmigo](../README.md#soy-un-recruiter-y-creo-que-podrías-encajar-en-un-proceso-de-selección)
+Por favor, [contacta conmigo](www.linkedin.com/in/diego-castro-viadero-9192a278) a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.
 
 ## Idiomas
 
@@ -27,7 +25,7 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 | 2005 - 2007     | Universidad de Deusto | Ingeniero superior en informática de gestión      |
 | 2002 - 2005     | Universidad de Deusto | Ingeniero técnico en informática de gestión       |
 
-> [TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes](https://github.com/dicastro/tfm-doc/blob/master/memoria.pdf)
+> **[TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes](https://github.com/dicastro/tfm-doc/blob/master/memoria.pdf)**
 
 ### **Plataforma NOVA**
 
@@ -43,7 +41,7 @@ Desarrollo de una plataforma para la gestión integral de productos en el BBVA.
 
 ## 12/2016 - 06/2019 | _Locken_
 
-_Locken_ es una empresa de producto con un departamento de IT pequeño y en constante evolución. Al tratarse de un departamento de IT pequeño, mi rol en la empresa no es fijo, va cambiando a lo largo del tiempo según las necesidades. Las principales funciones que desempeño son:
+_Locken_ es una empresa de producto con un departamento de IT pequeño y en constante evolución. Al tratarse de un departamento de IT pequeño, mi rol en la empresa no ha sido fijo, ha ido cambiando a lo largo del tiempo según las necesidades. Las principales funciones que he desempeñado son:
 
 - Desarrollo de especificaciones técnicas
 - Revisión de especificaciones funcionales

@@ -1,14 +1,12 @@
-# CV (_versión detallada_)
-
 ![Este soy yo!](../img/yo.jpg)
 
-> Versión resumida del cv [aquí](./cv-summary.md#cv-versión-resumida)
+> Esta es la versión detallada de mi CV, aquí está disponible la [versión resumida](./cv-summary.md#cv-versión-resumida)
 
 > Si tienes alguna pregunta... [FAQ](../README.md#faq)
 
 ## Contacto
 
-Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails y teléfonos. [Cómo contactar conmigo](../README.md#soy-un-recruiter-y-creo-que-podrías-encajar-en-un-proceso-de-selección)
+Por favor, [contacta conmigo](www.linkedin.com/in/diego-castro-viadero-9192a278) a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.
 
 ## Idiomas
 
@@ -27,7 +25,7 @@ Prefiero no dejar mis datos de contato al alcance de bots recopiladores de mails
 | 2005 - 2007     | Universidad de Deusto | Ingeniero superior en informática de gestión      |
 | 2002 - 2005     | Universidad de Deusto | Ingeniero técnico en informática de gestión       |
 
-> [TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes](https://github.com/dicastro/tfm-doc/blob/master/memoria.pdf)
+> **[TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes](https://github.com/dicastro/tfm-doc/blob/master/memoria.pdf)**
 
 ## 07/2019 - Hoy     | _Comunytek_
 
@@ -51,7 +49,7 @@ Desarrollo de una plataforma para la gestión integral de productos en el BBVA.
 
 ## 12/2016 - 06/2019 | _Locken_
 
-_Locken_ es una empresa de producto con un departamento de IT pequeño y en constante evolución. Al tratarse de un departamento de IT pequeño, mi rol en la empresa no es fijo, va cambiando a lo largo del tiempo según las necesidades. Las principales funciones que desempeño son:
+_Locken_ es una empresa de producto con un departamento de IT pequeño y en constante evolución. Al tratarse de un departamento de IT pequeño, mi rol en la empresa no ha sido fijo, ha ido cambiando a lo largo del tiempo según las necesidades. Las principales funciones que he desempeñado son:
 
 - Desarrollo de especificaciones técnicas
 - Revisión de especificaciones funcionales
@@ -189,11 +187,9 @@ Desarrollo de aplicación web que actúa como frontend de otra existente. La int
 
 > Precursor de `Docker`. Lo incorporé en mis primeros proyectos, e hice ver sus bondades a mis compañeros. Finalmente docker se ha convertido en una herramienta utilizada en todos los nuevos desarrollos, facilitando mucho la preparación de los entornos y los despliegues.
 
-> Precursor de la _documentación técnica en modo texto_. Para ello utilizamos el combo `markdown` + `plantuml`, junto con un par de plugins de `Visual Studio Code`. Esta combinación agiliza mucho la documentación, sobre todo la generación de diagramas. También nos permite hacer un seguimiento mucho mejor de los cambios sobre la documentación al tenerla incorporada en el sistema de control de versiones, ya que se trata únicamente de ficheros de texto plano.
+> Precursor de los `chatbots`. Tras varias _POCs_, se desarrolló el primer _chatbot_ oficial, ofreciendo un nuevo canal de comunicación, al cual los usuarios están cada vez más habituados, y así liberando al departamento de _Service Desk_ de las llamadas más repetitivas.
 
-> Precursor de los `chatbots`. Tras varias _POCs_, hemos comenzado con el primer _chatbot_ oficial. Nos va a permitir ofrecer un canal, al cual los usuarios están muy habituados hoy en día y así liberar al departamento de _Service Desk_ de las llamadas más repetitivas.
-
-> Precursor de las `PWA`. Aunque todavía creemos que están un poco "verdes" para hacer un primer desarrollo, he realizado un primer POC para conocer las posibilidades que ofrecen.
+> Precursor de las `PWA`. Aun siendo una tecnología que se encontraba en estado "alpha", realicé una primera POC para conocer las posibilidades que ofrecen.
 
 ## 09/2013 - 11/2016 | _Sopra Steria Group_
 
