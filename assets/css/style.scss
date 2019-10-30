@@ -4,6 +4,10 @@
 @import "{{ site.theme }}";
 
 @media print {
+    div.non-printable {
+        display: none;
+    }
+    
     div.page-break {
         page-break-after: always;
     }
