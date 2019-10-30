@@ -244,6 +244,8 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 
 `J2EE`, `Struts`, `Documentum`, `JSP`, `JSTL`, `Servlet`, `JavaScript`, `CSS`, `EJB`, `MDB`, `Web Services`, `JUnit`, `DBUnit`, `SVN`, `Weblogic`, `SQL`, `Oracle`, `Maven`, `Hudson`
 
+<div class="page-break"></div>
+
 ## Sideprojects
 
 Como apasionado de la programación, me gusta programar en mi tiempo libre. A continuación listo una serie de tecnologías con las que me he entretenido en algún momento:
