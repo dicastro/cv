@@ -6,6 +6,9 @@
 @media screen and (max-width: 42em) {
     .btn {
         padding: 0.75rem 1rem;
+        display: inline-block;
+        width: unset;
+        font-size: unset;
     }
 }
 
