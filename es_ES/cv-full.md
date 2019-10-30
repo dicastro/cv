@@ -249,6 +249,8 @@ Lanzamiento de un desarrollo de una aplicación web para el Banco de Francia.
 
 `Java 8`, `REST`, `AngularJS 1.5`, `Angular Material`, `Angular UI Router`, `Gulp`, `Bower`, `Karma`, `Jasmine`, `Protractor`, `Arquillian`, `JUnit`, `Git`, `Maven`
 
+<div class="page-break"></div>
+
 ### **Aplicación web para gestión de instalaciones cogeneradoras**
 
 Desarrollo de aplicación web para gestión de instalaciones cogeneradoras.
@@ -285,6 +287,8 @@ Mantenimiento de una aplicación web para la gestión de contratos de instalacio
 #### _Tecnologías_
 
 `Java 6`, `JQuery`, `JSP`, `Struts`, `Spring`, `Spring Batch`, `Weblogic`, `Hibernate`, `SQL`, `Oracle`, `REST`, `Web Services`, `JUnit`, `DBUnit`, `SVN`, `Maven`, `Jenkins`
+
+<div class="page-break"></div>
 
 ## 06/2012 - 08/2013 | _Sportegos (startup)_
 
