@@ -12,7 +12,7 @@
 
 <div class="non-printable">
     <h2 id="contacto">Contacto</h2>
-    <p>Por favor, <a href="{{ site.linkedin.public_profile_url }}">contacta conmigo</a> a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.</p>
+    <p>Por favor, <a href="{{ site.linkedin.public_profile_url }}" target="_blank">contacta conmigo</a> a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.</p>
 </div>
 
 ## Idiomas
