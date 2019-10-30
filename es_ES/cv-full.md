@@ -1,4 +1,4 @@
-![Este soy yo!](../img/yo.jpg)
+![Este soy yo!](../assets/img/yo.jpg)
 
 > Esta es la versión detallada de mi CV, aquí está disponible la [versión resumida](./cv-summary.md#cv-versión-resumida)
 
