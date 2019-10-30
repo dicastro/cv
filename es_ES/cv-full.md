@@ -25,7 +25,7 @@ Por favor, [contacta conmigo](https://www.linkedin.com/in/diego-castro-viadero-9
 
 > **[TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes](https://github.com/dicastro/tfm-doc/blob/master/memoria.pdf)**
 
-<div class="page-break" />
+<div class="page-break"></div>
 
 ## 07/2019 - Hoy     | _Comunytek_
 
