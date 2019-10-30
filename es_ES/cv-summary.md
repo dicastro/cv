@@ -1,5 +1,3 @@
-![Este soy yo!](../assets/img/yo.png)
-
 > Esta es la versión resumida de mi CV, aquí está disponible la [versión detallada](./cv-full.md#cv-versión-detallada)
 
 > Si tienes alguna pregunta... [FAQ](../README.md#faq)
