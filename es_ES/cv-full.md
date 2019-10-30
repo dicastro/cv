@@ -308,6 +308,8 @@ Desarrollo aplicación web para la búsqueda de carreras populares, gestión del
 
 `Java 6`, `Spring MVC`, `REST`, `Integración con Paypal`, `Spring Social`, `Spring Security`, `Spring Batch`, `Apache Camel`, `JSP`, `HTML`, `JQuery`, `AngularJS`, `Elasticsearch`, `Spring Data`, `JPA`, `Hibernate`, `MySQL`, `JUnit`, `Tomcat`, `Git`
 
+<div class="page-break"></div>
+
 ## 06/2008 - 05/2012 | _Bilbomática_
 
 ### **Proyecto de servicios de seguridad industrial**
