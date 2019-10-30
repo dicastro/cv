@@ -36,7 +36,7 @@ Por favor, [contacta conmigo](www.linkedin.com/in/diego-castro-viadero-9192a278)
 
 ## Soy un programador y he coincidido contigo en algún momento y me gustaría validar/comentar alguna experiencia compartida
 
-1. Clona el repo
+1. Clona el [repo](https://github.com/dicastro/cv)
 1. Añade un comentario debajo de la experiencia relacionada (deja un nombre, por favor)
 1. Crea un PR
 
@@ -50,5 +50,5 @@ Ej:
 
 ## No soy programador (no tengo perfil técnico) y he coincidido contigo en algún momento y me gustaría validar/comentar alguna experiencia compartida
 
-1. Abre un issue con la etiqueta `coworker`
-1. Añade el comentario que desees
+1. Abre un issue en el [repo](https://github.com/dicastro/cv) con la etiqueta `coworker`
+1. Escribe el comentario que consideres oportuno

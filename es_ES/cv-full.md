@@ -17,7 +17,7 @@
 
 ## Idiomas
 
-| Idioma  | Leído | Escrito | Hablado |
+| &nbsp;  | Leído | Escrito | Hablado |
 | ------- | :---: | :-----: | :-----: |
 | Francés | Alto  | Alto    | Alto    |
 | Inglés  | Alto  | Medio   | Medio   |
