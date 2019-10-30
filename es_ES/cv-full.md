@@ -1,6 +1,5 @@
-<span class="non-printable">
-> Esta es la versión detallada de mi CV, aquí está disponible la [versión resumida](./cv-summary.md)
-</span>
+!!! <div class="non-printable">
+    > Esta es la versión detallada de mi CV, aquí está disponible la [versión resumida](./cv-summary.md)
 
 > Si tienes alguna pregunta... [FAQ](../README.md#faq)
 
