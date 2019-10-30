@@ -2,4 +2,6 @@
 
 > Este es mi [perfil de LinkedIn](https://www.linkedin.com/in/diego-castro-viadero-9192a278)
 
-![Aquí encontrarás mi CV!](../assets/img/qr_cv_full_es_ES.png)
+<p style="text-align: center;">
+    <img src="/cv/assets/img/qr_cv_full_es_ES.png" alt="Aquí encontrarás mi CV!">
+</p>
