@@ -144,6 +144,8 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 
 `Spring Boot`, `Java 8`, `Spring MVC`, `JQuery`, `Websockets`, `Zuul`, `Zoekeeper`, `Eureka`, `Docker`, `Docker Compose`, `Git`
 
+<div class="page-break"></div>
+
 ### **Desarrollo de aplicación web frontend**
 
 | Cliente    | Lugar  |
@@ -175,6 +177,8 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 #### _Tecnologías_
 
 `Java 8`, `Spark`, `Cassandra`, `REST`, `Apache Camel`, `Activiti`, `Spring Boot`, `JUnit`, `DB2`, `Git`, `Maven`, `Scrum`
+
+<div class="page-break"></div>
 
 ### **Lanzamiento proyecto Programme FIBRE**
 
