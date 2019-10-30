@@ -176,6 +176,8 @@ Desarrollo de aplicación web para la visualización en tiempo real de accesos a
 
 `Spring Boot`, `Java 8`, `Spring MVC`, `JQuery`, `Websockets`, `Zuul`, `Zoekeeper`, `Eureka`, `Docker`, `Docker Compose`, `Git`
 
+<div class="page-break"></div>
+
 ### **Desarrollo de aplicación web frontend**
 
 Desarrollo de aplicación web que actúa como frontend de otra existente. La integración entre frontend y backend se realiza mediante llamadas HTTP.
@@ -205,6 +207,8 @@ Desarrollo de aplicación web que actúa como frontend de otra existente. La int
 > Precursor de los `chatbots`. Tras varias _POCs_, se desarrolló el primer _chatbot_ oficial, ofreciendo un nuevo canal de comunicación, al cual los usuarios están cada vez más habituados, y así liberando al departamento de _Service Desk_ de las llamadas más repetitivas.
 
 > Precursor de las `PWA`. Aun siendo una tecnología que se encontraba en estado "alpha", realicé una primera POC para conocer las posibilidades que ofrecen.
+
+<div class="page-break"></div>
 
 ## 09/2013 - 11/2016 | _Sopra Steria Group_
 
