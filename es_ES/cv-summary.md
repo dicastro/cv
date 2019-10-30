@@ -210,6 +210,8 @@ _Locken_ es una empresa de producto con un departamento de IT pequeño y en cons
 
 `Java 6`, `JQuery`, `JSP`, `Struts`, `Spring`, `Spring Batch`, `Weblogic`, `Hibernate`, `SQL`, `Oracle`, `REST`, `Web Services`, `JUnit`, `DBUnit`, `SVN`, `Maven`, `Jenkins`
 
+<div class="page-break"></div>
+
 ## 06/2012 - 08/2013 | _Sportegos (startup)_
 
 | Duración        | Rol                   | Cliente | Lugar  |
