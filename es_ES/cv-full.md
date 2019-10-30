@@ -1,10 +1,10 @@
-> Esta es la versión detallada de mi CV, aquí está disponible la [versión resumida](./cv-summary.md#cv-versión-resumida)
+> Esta es la versión detallada de mi CV, aquí está disponible la [versión resumida](./cv-summary.md)
 
 > Si tienes alguna pregunta... [FAQ](../README.md#faq)
 
 ## Contacto
 
-Por favor, [contacta conmigo](www.linkedin.com/in/diego-castro-viadero-9192a278) a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.
+Por favor, [contacta conmigo](https://www.linkedin.com/in/diego-castro-viadero-9192a278) a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.
 
 ## Idiomas
 
