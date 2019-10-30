@@ -1,10 +1,19 @@
-> Esta es la versión resumida de mi CV, aquí está disponible la [versión detallada](./cv-full.md)
+<div class="non-printable">
+    <blockquote>
+        <p>Esta es la versión resumida de mi CV, aquí está disponible la <a href="/cv/es_ES/cv-full.html">versión detallada</a></p>
+    </blockquote>
+</div>
 
-> Si tienes alguna pregunta... [FAQ](../README.md#faq)
+<div class="non-printable">
+    <blockquote>
+        <p>Si tienes alguna pregunta… <a href="/cv/#faq">FAQ</a></p>
+    </blockquote>
+</div>
 
-## Contacto
-
-Por favor, [contacta conmigo](https://www.linkedin.com/in/diego-castro-viadero-9192a278) a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.
+<div class="non-printable">
+    <h2 id="contacto">Contacto</h2>
+    <p>Por favor, <a href="https://www.linkedin.com/in/diego-castro-viadero-9192a278">contacta conmigo</a> a través de LinkedIn, prefiero no dejar mis datos de contato directamente al alcance de bots recopiladores de mails y teléfonos.</p>
+</div>
 
 ## Idiomas
 
