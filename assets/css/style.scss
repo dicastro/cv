@@ -1,13 +1,13 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 @media screen and (max-width: 42em) {
     .btn {
         padding: 0.75rem 1rem;
     }
 }
-
-@import "{{ site.theme }}";
 
 @media print {
     .non-printable {
