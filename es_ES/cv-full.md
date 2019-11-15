@@ -68,7 +68,7 @@
                     <li>Preparación de datos con R: <code class="language-plaintext highlighter-rouge">dplyr</code>, <code class="language-plaintext highlighter-rouge">tidyverse</code></li>
                     <li>Machine learning avanzado: <i>NLP</i>, <i>Topic Modeling</i>, <i>Altoritmos aproximados</i>, <i>Sentiment Analysis</i></li>
                     <li>Visualización de datos: <code class="language-plaintext highlighter-rouge">Tableau</code>, <code class="language-plaintext highlighter-rouge">ggplot2</code>, <code class="language-plaintext highlighter-rouge">Bokeh</code>, <code class="language-plaintext highlighter-rouge">d3.js</code>, <code class="language-plaintext highlighter-rouge">CartoDB</code></li>
-                <ul>
+                </ul>
                 <b><a href="https://github.com/dicastro/tfm-doc/blob/master/memoria.pdf">TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes</a></b>
             </td>
         </tr>
