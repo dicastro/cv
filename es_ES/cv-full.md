@@ -17,27 +17,31 @@
 
 ## Idiomas
 
-<table>
+<table style="display: table; margin-right: auto; margin-left: auto; max-width: 650px;">
     <thead>
         <tr>
             <th>&nbsp;</th>
-            <th>Leído</th>
-            <th>Escrito</th>
-            <th>Hablado</th>
+            <th style="text-align: center;">Leído</th>
+            <th style="text-align: center;">Escrito</th>
+            <th style="text-align: center;">Hablado</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img src="/cv/assets/img/flag_fr.png" alt="Francés" style="width: 64px;"></td>
-            <td>Alto</td>
-            <td>Alto</td>
-            <td>Alto</td>
+            <td style="text-align: center;">
+                <img style="vertical-align: middle;" src="/cv/assets/img/flag_fr.png" alt="Francés" title="Francés" style="width: 30px;">
+            </td>
+            <td style="text-align: center;">Alto</td>
+            <td style="text-align: center;">Alto</td>
+            <td style="text-align: center;">Alto</td>
         </tr>
         <tr>
-            <td><img src="/cv/assets/img/flag_gb.png" alt="Inglés" style="width: 64px;"></td>
-            <td>Alto</td>
-            <td>Medio</td>
-            <td>Medio</td>
+            <td style="text-align: center;">
+                <img style="vertical-align: middle;" src="/cv/assets/img/flag_gb.png" alt="Inglés" title="Inglés" style="width: 30px;">
+            </td>
+            <td style="text-align: center;">Alto</td>
+            <td style="text-align: center;">Medio</td>
+            <td style="text-align: center;">Medio</td>
         </tr>
     </tbody>
 </table>
