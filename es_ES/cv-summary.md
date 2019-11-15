@@ -17,22 +17,87 @@
 
 ## Idiomas
 
-| Idioma  | Leído | Escrito | Hablado |
-| ------- | :---: | :-----: | :-----: |
-| Francés | Alto  | Alto    | Alto    |
-| Inglés  | Alto  | Medio   | Medio   |
+<table style="display: table; margin-right: auto; margin-left: auto; max-width: 650px;">
+    <thead>
+        <tr>
+            <th>&nbsp;</th>
+            <th style="text-align: center;">Leído</th>
+            <th style="text-align: center;">Escrito</th>
+            <th style="text-align: center;">Hablado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: center;">
+                <img style="width: 30px; vertical-align: middle;" src="/cv/assets/img/flag_fr.png" alt="Francés" title="Francés">
+            </td>
+            <td style="text-align: center;">Alto</td>
+            <td style="text-align: center;">Alto</td>
+            <td style="text-align: center;">Alto</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <img style="width: 30px; vertical-align: middle;" src="/cv/assets/img/flag_gb.png" alt="Inglés" title="Inglés">
+            </td>
+            <td style="text-align: center;">Alto</td>
+            <td style="text-align: center;">Medio</td>
+            <td style="text-align: center;">Medio</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Formación académica
 
-| Periodo         | Centro                | Título                                            |
-| --------------: | :-------------------: | ------------------------------------------------- |
-| **2018 - 2019** | **U-TAD**             | **Máster en Big Data & Data Science**             |
-| 2014            | MongoDB University    | M101JS: MongoDB for Node.js Developers            |
-| 2011            | -                     | Java Standard Edition 6 Programmer Certified      |
-| 2005 - 2007     | Universidad de Deusto | Ingeniero superior en informática de gestión      |
-| 2002 - 2005     | Universidad de Deusto | Ingeniero técnico en informática de gestión       |
-
-> **[TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes](https://github.com/dicastro/tfm-doc/blob/master/memoria.pdf)**
+<table>
+    <thead>
+        <tr style="background-color: #EEEEEE;">
+            <th style="border-left: none; border-right: none; border-top: 1px solid black; border-bottom: 1px solid black;">Periodo</th>
+            <th style="border-left: none; border-right: none; border-top: 1px solid black; border-bottom: 1px solid black;">Centro</th>
+            <th style="border-left: none; border-right: none; border-top: 1px solid black; border-bottom: 1px solid black;">Título</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: center; border-left: none; border-right: none;">2018 - 2019</td>
+            <td style="text-align: center; border-left: none; border-right: none;"><a href="https://www.u-tad.com" target="_blank">U-TAD</a></td>
+            <td style="text-align: left; border-left: none; border-right: none;"><a href="https://www.u-tad.com/estudios/master-en-data-science-big-data" target="_blank">Máster en Data Science & Big Data</a></td>
+        </tr>
+        <tr>
+            <td colspan="3" style="border-left: none; border-right: none; border-bottom: 1px solid black;">
+                <ul style="font-size: small;">
+                    <li>Análitica de datos: Introducción a <i>Clasificación</i>, <i>Regresión</i>, <i>Clustering</i>, <i>Reducción de Dimensiones</i></li>
+                    <li>Machine learning: <i>SVM</i>, <i>Decision Tree</i>, <i>Random Forest</i>, <i>K-means</i>, <i>Logistic Regression</i>, <i>Spark MLlib</i></li>
+                    <li>Deep Learning: <i>Redes Neuronales</i>, <i>Redes Neuronales Convolucionales</i>, <i>Redes Neuronales Recurentes</i></li>
+                    <li>Preparación de datos con Python: <code class="language-plaintext highlighter-rouge">Pandas</code>, <code class="language-plaintext highlighter-rouge">Numpy</code></li>
+                    <li>Preparación de datos con R: <code class="language-plaintext highlighter-rouge">dplyr</code>, <code class="language-plaintext highlighter-rouge">tidyverse</code></li>
+                    <li>Machine learning avanzado: <i>NLP</i>, <i>Topic Modeling</i>, <i>Altoritmos aproximados</i>, <i>Sentiment Analysis</i></li>
+                    <li>Visualización de datos: <code class="language-plaintext highlighter-rouge">Tableau</code>, <code class="language-plaintext highlighter-rouge">ggplot2</code>, <code class="language-plaintext highlighter-rouge">Bokeh</code>, <code class="language-plaintext highlighter-rouge">d3.js</code>, <code class="language-plaintext highlighter-rouge">CartoDB</code></li>
+                </ul>
+                <b><a href="https://github.com/dicastro/tfm-doc/raw/master/memoria.pdf">(8 MB) TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes</a></b>
+            </td>
+        </tr>
+        <tr style="background-color: #EEEEEE;">
+            <td style="text-align: center; border-left: none; border-right: none; border-bottom: 1px solid black;">2014</td>
+            <td style="text-align: center; border-left: none; border-right: none; border-bottom: 1px solid black;"><a href="https://university.mongodb.com" target="_blank">MongoDB University</a></td>
+            <td style="text-align: left; border-left: none; border-right: none; border-bottom: 1px solid black;">M101JS: MongoDB for Node.js Developers</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; border-left: none; border-right: none; border-bottom: 1px solid black;">2011</td>
+            <td style="text-align: center; border-left: none; border-right: none; border-bottom: 1px solid black;">-</td>
+            <td style="text-align: left; border-left: none; border-right: none; border-bottom: 1px solid black;">Java Standard Edition 6 Programmer Certified</td>
+        </tr>
+        <tr style="background-color: #EEEEEE;">
+            <td style="text-align: center; border-left: none; border-right: none; border-bottom: 1px solid black;">2005 - 2007</td>
+            <td style="text-align: center; border-left: none; border-right: none; border-bottom: 1px solid black;"><a href="https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto" target="_blank">Universidad de Deusto</a></td>
+            <td style="text-align: left; border-left: none; border-right: none; border-bottom: 1px solid black;">Ingeniero superior en informática de gestión</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; border-left: none; border-right: none;">2002 - 2005</td>
+            <td style="text-align: center; border-left: none; border-right: none;"><a href="https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto" target="_blank">Universidad de Deusto</a></td>
+            <td style="text-align: left; border-left: none; border-right: none;">Ingeniero técnico en informática de gestión</td>
+        </tr>
+    </tbody>
+</table>
 
 <div class="page-break"></div>
 
