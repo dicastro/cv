@@ -64,7 +64,7 @@
         </tr>
         <tr>
             <td colspan="3" style="border-left: none; border-right: none; border-bottom: 1px solid black;">
-                <ul>
+                <ul style="font-size: small;">
                     <li>Análitica de datos: Introducción a <i>Clasificación</i>, <i>Regresión</i>, <i>Clustering</i>, <i>Reducción de Dimensiones</i></li>
                     <li>Machine learning: <i>SVM</i>, <i>Decision Tree</i>, <i>Random Forest</i>, <i>K-means</i>, <i>Logistic Regression</i>, <i>Spark MLlib</i></li>
                     <li>Deep Learning: <i>Redes Neuronales</i>, <i>Redes Neuronales Convolucionales</i>, <i>Redes Neuronales Recurentes</i></li>
