@@ -25,7 +25,7 @@
             <th>Escrito</th>
             <th>Hablado</th>
         </tr>
-    <thead>
+    </thead>
     <tbody>
         <tr>
             <td><img src="/cv/assets/img/flag_fr.png" alt="Francés" style="width: 64px;"></td>
