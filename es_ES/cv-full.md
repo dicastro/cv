@@ -29,7 +29,7 @@
     <tbody>
         <tr>
             <td style="text-align: center;">
-                <img style="vertical-align: middle;" src="/cv/assets/img/flag_fr.png" alt="Francés" title="Francés" style="width: 30px;">
+                <img style="width: 30px; vertical-align: middle;" src="/cv/assets/img/flag_fr.png" alt="Francés" title="Francés">
             </td>
             <td style="text-align: center;">Alto</td>
             <td style="text-align: center;">Alto</td>
@@ -37,7 +37,7 @@
         </tr>
         <tr>
             <td style="text-align: center;">
-                <img style="vertical-align: middle;" src="/cv/assets/img/flag_gb.png" alt="Inglés" title="Inglés" style="width: 30px;">
+                <img style="width: 30px; vertical-align: middle;" src="/cv/assets/img/flag_gb.png" alt="Inglés" title="Inglés">
             </td>
             <td style="text-align: center;">Alto</td>
             <td style="text-align: center;">Medio</td>
