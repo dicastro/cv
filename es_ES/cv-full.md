@@ -66,8 +66,8 @@
             <td colspan="3" style="border-left: none; border-right: none; border-bottom: 1px solid black;">
                 <ul style="font-size: small;">
                     <li>Análitica de datos: Introducción a <i>Clasificación</i>, <i>Regresión</i>, <i>Clustering</i>, <i>Reducción de Dimensiones</i></li>
-                    <li>Machine learning: <i>SVM</i>, <i>Decision Tree</i>, <i>Random Forest</i>, <i>K-means</i>, <i>Logistic Regression</i>, <i>Spark MLlib</i></li>
-                    <li>Deep Learning: <i>Redes Neuronales</i>, <i>Redes Neuronales Convolucionales</i>, <i>Redes Neuronales Recurentes</i></li>
+                    <li>Machine learning: <i>SVM</i>, <i>Decision Tree</i>, <i>Random Forest</i>, <i>K-means</i>, <i>Logistic Regression</i>, <i>Spark MLlib</i> con <code class="language-plaintext highlighter-rouge">SciKitLearn</code></li>
+                    <li>Deep Learning: <i>Redes Neuronales</i>, <i>Redes Neuronales Convolucionales</i>, <i>Redes Neuronales Recurentes</i> con <code class="language-plaintext highlighter-rouge">Keras</code> y <code class="language-plaintext highlighter-rouge">Tensorflow</code></li>
                     <li>Preparación de datos con Python: <code class="language-plaintext highlighter-rouge">Pandas</code>, <code class="language-plaintext highlighter-rouge">Numpy</code></li>
                     <li>Preparación de datos con R: <code class="language-plaintext highlighter-rouge">dplyr</code>, <code class="language-plaintext highlighter-rouge">tidyverse</code></li>
                     <li>Machine learning avanzado: <i>NLP</i>, <i>Topic Modeling</i>, <i>Altoritmos aproximados</i>, <i>Sentiment Analysis</i></li>
