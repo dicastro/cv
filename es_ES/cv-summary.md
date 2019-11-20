@@ -70,7 +70,7 @@
                     <li>Deep Learning: <i>Redes Neuronales</i>, <i>Redes Neuronales Convolucionales</i>, <i>Redes Neuronales Recurentes</i> con <code class="language-plaintext highlighter-rouge">Keras</code> y <code class="language-plaintext highlighter-rouge">Tensorflow</code></li>
                     <li>Preparación de datos con Python: <code class="language-plaintext highlighter-rouge">Pandas</code>, <code class="language-plaintext highlighter-rouge">Numpy</code></li>
                     <li>Preparación de datos con R: <code class="language-plaintext highlighter-rouge">dplyr</code>, <code class="language-plaintext highlighter-rouge">tidyverse</code></li>
-                    <li>Machine learning avanzado: <i>NLP</i>, <i>Topic Modeling</i>, <i>Altoritmos aproximados</i>, <i>Sentiment Analysis</i></li>
+                    <li>Machine learning avanzado: <i>Sistemas de recomendación</i>, <i>NLP</i>, <i>Topic Modeling</i>, <i>Altoritmos aproximados</i>, <i>Sentiment Analysis</i></li>
                     <li>Visualización de datos: <code class="language-plaintext highlighter-rouge">Tableau</code>, <code class="language-plaintext highlighter-rouge">ggplot2</code>, <code class="language-plaintext highlighter-rouge">Bokeh</code>, <code class="language-plaintext highlighter-rouge">d3.js</code>, <code class="language-plaintext highlighter-rouge">CartoDB</code></li>
                 </ul>
                 <b><a href="https://github.com/dicastro/tfm-doc/raw/master/memoria.pdf">(8 MB) TFM: Sistema de detección automática de baches en el asfalto a partir de imágenes</a></b>
